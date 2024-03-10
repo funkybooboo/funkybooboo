@@ -1,5 +1,17 @@
 # 💫 About Me:
-I am a senior year Computer Science student at Utah State University. 
+I'm Nate, a dedicated senior-year Computer Science student at Utah State University. As I approach the culmination of my academic journey, set to graduate this December, I am eagerly preparing to transition into a rewarding career within the software industry.
+
+Throughout my academic tenure, I've engaged in a variety of projects that have not only sharpened my technical skills but also fostered my passion for innovation and problem-solving. From designing efficient algorithms to developing user-friendly applications, each endeavor has contributed to my growth as a versatile software engineer.
+
+Currently, I am immersed in an exciting research endeavor alongside Vicki Allan and Ha Nguyen, focusing on the utilization of artificial intelligence to enhance coding education. Our project aims to develop innovative AI-driven tools that facilitate interactive and personalized learning experiences for students delving into the world of programming. Through this research, I am not only expanding my expertise in AI and machine learning but also contributing to the advancement of educational technology.
+
+Additionally, I've had the opportunity to collaborate with a dynamic team on the development of "Cupid Code," an AI-assisted dating service. In this project, I played a pivotal role in architecting intelligent algorithms that analyze user preferences and behaviors to suggest compatible matches. The project not only challenged me to apply my technical skills in novel ways but also reinforced the importance of user-centric design and ethical considerations in software development.
+
+These experiences have not only honed my technical abilities but also cultivated my passion for leveraging technology to address real-world challenges and enhance human experiences.
+
+I am enthusiastic about connecting with professionals in the software industry to explore opportunities for collaboration and further development. Whether through email or LinkedIn, I welcome any inquiries or discussions regarding potential career prospects, projects, or shared interests.
+
+Thank you for considering my profile, and I look forward to engaging with like-minded individuals as I embark on this exciting journey into the software industry.
 
 
 ## 🌐 Socials:

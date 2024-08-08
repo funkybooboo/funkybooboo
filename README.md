@@ -1,17 +1,13 @@
 # 💫 About Me:
-I'm Nate, a dedicated senior-year Computer Science student at Utah State University. As I approach the culmination of my academic journey, set to graduate in December 2024, I am eagerly preparing to transition into a rewarding career within the software industry.
+I’m Nate Stott, a Computer Science senior at Utah State University, set to graduate in December 2024. My academic and professional journey has been shaped by a blend of rigorous coursework, impactful research, and practical experience.
 
-Throughout my academic tenure, I've engaged in a variety of projects that have not only sharpened my technical skills but also fostered my passion for innovation and problem-solving. From designing efficient algorithms to developing user-friendly applications, each endeavor has contributed to my growth as a versatile software engineer.
+Currently, I’m immersed in Dr. Mario’s Direct Lab, focusing on robots and systems intelligence. My work involves upgrading electric bus infrastructure, leveraging advanced technologies to improve system efficiency and functionality. This role allows me to explore the practical applications of robotics and intelligent systems in a dynamic research environment.
 
-Currently, I am immersed in an intriguing research endeavor alongside Vicki Allan and Ha Nguyen, focusing on the utilization of artificial intelligence to enhance coding education. Our project aims to develop innovative AI-driven tools that facilitate interactive and personalized learning experiences for students delving into the world of programming. Through this research, I am not only expanding my expertise in AI and machine learning but also contributing to the advancement of educational technology.
+In a previous role, I collaborated with Vicki Allan and Ha Nguyen on a project to enhance coding education through artificial intelligence. This experience deepened my understanding of AI and its potential to transform learning experiences.
 
-Additionally, I've had the opportunity to collaborate with a dynamic team on the development of "Cupid Code," an AI-assisted dating service. In this project, I was team lead for two sprints and played a pivotal role in architecting intelligent algorithms that analyze user preferences and behaviors to suggest compatible matches. The project not only challenged me to apply my technical skills in novel ways but also reinforced the importance of user-centric design and ethical considerations in software development.
+My internship at iFIT was particularly formative, teaching me how to navigate a formal software team setting. I developed user-friendly web interfaces and contributed to backend development, all while working within a structured team environment. This experience honed my skills in collaboration, communication, and adherence to industry best practices, preparing me to excel in professional software development settings.
 
-These experiences have not only honed my technical abilities but also cultivated my passion for leveraging technology to address real-world challenges and enhance human experiences.
-
-I am enthusiastic about connecting with professionals in the software industry to explore opportunities for collaboration and further development. Whether through email or LinkedIn, I welcome any inquiries or discussions regarding potential career prospects, projects, or shared interests.
-
-Thank you for considering my profile, and I look forward to engaging with like-minded individuals as I embark on this exciting journey into the software industry.
+From leading the development of an AI-assisted dating service to creating an EV charger reservation system, I’ve tackled a range of complex challenges and delivered user-centric solutions. I’m passionate about continuing to drive technological innovation and am eager to connect with industry professionals for future opportunities and collaborations. Feel free to reach out via email or LinkedIn to explore potential synergies or discuss the latest in technology.
 
 
 ## 🌐 Socials:

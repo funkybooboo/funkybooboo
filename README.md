@@ -1,13 +1,11 @@
 # 💫 About Me:
-I’m Nate Stott, a Computer Science senior at Utah State University, set to graduate in December 2024. My academic and professional journey has been shaped by a blend of rigorous coursework, impactful research, and practical experience.
+Hi my name is Nate Stott, I am a Computer Science senior at Utah State University, set to graduate in December 2024. Currently, I am concluding my work at Dr. Mario’s Direct Lab, where I focus on robotics and systems intelligence, particularly in upgrading electric bus infrastructure to improve efficiency and functionality.
 
-Currently, I’m immersed in Dr. Mario’s Direct Lab, focusing on robots and systems intelligence. My work involves upgrading electric bus infrastructure, leveraging advanced technologies to improve system efficiency and functionality. This role allows me to explore the practical applications of robotics and intelligent systems in a dynamic research environment.
+I am excited to announce that I will be moving to Erie, PA, to join Provider Resources Inc. as a Junior Software Engineer. I look forward to contributing to the team and gaining valuable industry experience while building lasting professional relationships.
 
-In a previous role, I collaborated with Vicki Allan and Ha Nguyen on a project to enhance coding education through artificial intelligence. This experience deepened my understanding of AI and its potential to transform learning experiences.
+As a lifelong learner, I plan to pursue a Master’s degree in Computer Science and explore additional technical certifications to further enhance my skills. I am also passionate about contributing to open-source software projects, believing that collaboration and knowledge sharing are key to innovation in the tech community.
 
-My internship at iFIT was particularly formative, teaching me how to navigate a formal software team setting. I developed user-friendly web interfaces and contributed to backend development, all while working within a structured team environment. This experience honed my skills in collaboration, communication, and adherence to industry best practices, preparing me to excel in professional software development settings.
-
-From leading the development of an AI-assisted dating service to creating an EV charger reservation system, I’ve tackled a range of complex challenges and delivered user-centric solutions. I’m passionate about continuing to drive technological innovation and am eager to connect with industry professionals for future opportunities and collaborations. Feel free to reach out via email or LinkedIn to explore potential synergies or discuss the latest in technology.
+I am eager to connect with industry professionals for collaboration and growth opportunities. Feel free to reach out via email or LinkedIn to discuss potential synergies or the latest advancements in technology.
 
 
 ## 🌐 Socials:

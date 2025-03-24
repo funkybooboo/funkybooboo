@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Funkybooboo
 Hi, I’m Nate! 👋<br><br>I’m a Junior Software Engineer at Provider Resources Inc. with a Computer Science degree from Utah State University. I’m passionate about software development, open-source contributions, and continuous learning.<br><br>Currently, I work with technologies like Rust, and React. I also have experience in robotics and systems intelligence from my work at Dr. Mario’s Direct Lab, where I helped enhance electric bus infrastructure.<br><br>Feel free to explore my projects, and let me know if you’re interested in collaborating!
 
 # 📊 GitHub Stats:

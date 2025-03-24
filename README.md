@@ -11,3 +11,7 @@ Hi, I’m Nate! 👋<br><br>I’m a Junior Software Engineer at Provider Resourc
 
 ---
 [![](https://visitcount.itsvg.in/api?id=funkybooboo&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## License
+
+This project is licensed under the GNU General Public License v3.0. See the LICENSE file for details.

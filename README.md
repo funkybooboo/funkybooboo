@@ -2,7 +2,7 @@
 
 Software Engineer | MS Computer Science Candidate at Utah State University
 
-[Resume](https://github.com/funkybooboo/resume) | [LinkedIn](https://www.linkedin.com/in/nate-stott1/)
+[Personal Website](https://natestott.net) | [Resume](https://github.com/funkybooboo/resume) | [LinkedIn](https://www.linkedin.com/in/nate-stott1/)
 
 ---
 
@@ -36,7 +36,7 @@ My core competencies span software architecture and design patterns, artificial 
 
 ## Let's Connect
 
-I'm always interested in discussing software engineering, systems architecture, AI applications, homelab setups, or any interesting technical challenges. Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/nate-stott1/) or explore my [resume](https://github.com/funkybooboo/resume) for more details on my experience and background.
+I'm always interested in discussing software engineering, systems architecture, AI applications, homelab setups, or any interesting technical challenges. Feel free to visit my [website](https://natestott.net), reach out through [LinkedIn](https://www.linkedin.com/in/nate-stott1/), or explore my [resume](https://github.com/funkybooboo/resume) for more details on my experience and background.
 
 ---
 

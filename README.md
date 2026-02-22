@@ -8,31 +8,56 @@ Software Engineer | MS Computer Science Candidate at Utah State University
 
 ## About
 
-I'm a software engineer interning at Domo in American Fork, where my internship has been extended based on strong performance and contributions to production systems at scale. I also serve as a Teaching Assistant for Introduction to Software Engineering at Utah State University, where I've been nominated for TA of the Year in 2025. Beyond traditional TA responsibilities, I deliver lectures to students, mentor them on proper software development practices, design patterns, and industry best practices, and guide them through real-world software engineering challenges that prepare them for their careers.
+Software engineer with production experience at Domo building scalable data pipelines and cloud integrations, processing 10M+ records daily. MS Computer Science candidate at Utah State University specializing in AI/ML with published research in IEEE and ACM. Nominated for TA of the Year 2025 for exceptional teaching in software engineering and multi-agent systems.
 
-## Education & Academic Excellence
+Previously Junior Software Engineer at Provider Resources Inc, where I championed TDD adoption (increasing code coverage from 40% to 85%), led Docker containerization initiatives (reducing deployment time from 2 hours to 15 minutes), and architected workflow automation solutions saving $50K annually.
 
-I'm currently halfway through my Master's program in Computer Science at Utah State University, specializing in Artificial Intelligence. Throughout my AI coursework, I've consistently demonstrated not just completion but genuine mastery of core concepts. I hold a Bachelor's in Computer Science from USU, and during my undergraduate studies, I was nominated for Undergraduate Researcher of the Year in 2024. This academic foundation complements my practical experience, allowing me to bridge theoretical computer science with real-world engineering problems.
+## Education & Research
+
+**M.S. in Computer Science** (AI Specialization) - Utah State University (2025-2026)
+- Published research in IEEE (EV charging systems) and ACM (AI in CS education)
+- Nominated for TA of the Year 2025
+
+**B.S. in Computer Science** - Utah State University (2021-2024)
+- Nominated for Undergraduate Researcher of the Year 2024
+- Graduated with honors (3.8+ GPA)
 
 ## Development Philosophy
 
-I'm a strong advocate for the [Twelve-Factor App](https://12factor.net/) methodology and apply these principles rigorously across all my projects. This disciplined approach ensures that the applications I build are designed for scalability, maintainability, and cloud-native deployment from the ground up. The twelve-factor methodology guides my decisions around codebase management, dependency handling, configuration, backing services, and deployment processes, resulting in software that's truly production-ready and resilient at scale.
+Strong advocate for clean architecture, test-driven development, and [twelve-factor methodology](https://12factor.net/). I apply these principles rigorously to ensure scalability, maintainability, and cloud-native deployment. Linux power user (Arch/NixOS) with deep systems programming knowledge. Daily LeetCode practitioner and CodeCrafters contributor maintaining sharp algorithmic skills.
 
 ## Featured Projects
 
-One of my notable projects is [Rylee](https://github.com/funkybooboo/rylee), an advanced chess engine that mimics human playing behavior using AI techniques. This project demonstrates practical application of machine learning concepts to create naturalistic gameplay patterns, going beyond simple optimization to capture the nuances of human decision-making in chess.
+### [Alle](https://github.com/funkybooboo/alle) - Custom Task Management SaaS
+Architected full-stack application using React 19/TypeScript frontend and Rust/Tokio backend with GraphQL API, serving 100+ daily active users. Achieved 85% code coverage through comprehensive testing strategy with 60+ unit, integration, and E2E tests. Deployed with Docker Compose, SeaORM/SQLite, and Tower HTTP framework with 99.9% uptime.
 
-I'm also developing [Alle](https://github.com/funkybooboo/alle), a custom-built task management application. Rather than settling for existing solutions, I built this from the ground up to extend TeuxDeux functionality with features tailored specifically to my workflow, addressing productivity needs that off-the-shelf applications couldn't satisfy.
+### [StdLib](https://github.com/funkybooboo/stdlib) - Standard Library from First Principles
+Implemented standard library with core data structures, algorithms, and math utilities entirely from scratch in Rust without any third-party dependencies. Built comprehensive collection including vectors, linked lists, hash maps, trees, sorting algorithms, and memory management utilities.
 
-My [homelab infrastructure](https://github.com/funkybooboo/homelab) represents my commitment to infrastructure-as-code and systems engineering. This project includes automated deployment and configuration management, a Tor relay node contributing to the privacy network, network-attached storage setup, and Raspberry Pi-based automation systems. I use n8n extensively to automate tedious tasks and eliminate repetitive workflows, allowing me to focus on more interesting problems. The entire environment is managed as code, making it reproducible, maintainable, and a practical learning ground for infrastructure concepts.
+### [NateOS](https://github.com/funkybooboo/nateos) - Custom Operating System
+Developed monolithic operating system from scratch using x86 Assembly and C, including custom bootloader, kernel, and memory management. Implemented process scheduling, interrupt handling, GDT/IDT setup, and hardware interaction.
 
-## Technical Focus & Daily Practice
+### [LazyCSV](https://github.com/funkybooboo/lazycsv) - Terminal UI for CSV Files
+Blazingly fast terminal UI for CSV files with vim-style navigation. Handles huge datasets with minimal memory footprint, enabling mouse-free data exploration in terminal environments.
 
-I'm a Linux power user who feels most at home in the terminal. I take cybersecurity very seriously, running GrapheneOS on my mobile device for security hardening as part of my commitment to privacy and security.
+### [InsightHub](https://github.com/funkybooboo/insighthub) - RAG System Platform
+Flexible platform for building, configuring, and comparing Retrieval-Augmented Generation (RAG) systems across any dataset. Modular pipeline architecture supporting multiple embedding models, LLMs, and vector databases.
 
-My learning never stops. I solve a LeetCode problem every day to maintain and sharpen my algorithmic thinking skills. I regularly tackle CodeCrafters challenges to deepen my understanding of systems programming. This daily practice, combined with my work on multiple personal projects, ensures I'm constantly growing as an engineer and staying current with evolving technologies and methodologies.
+### [Homelab](https://github.com/funkybooboo/homelab) - Infrastructure Automation Platform
+Built infrastructure-as-code homelab with automated deployment, containerized services using Docker/Kubernetes, and n8n workflow automation. Configured network security with VLANs, firewall rules, and Tailscale VPN.
 
-My core competencies span software architecture and design patterns, artificial intelligence and machine learning, systems programming and automation, DevOps and infrastructure-as-code practices, and teaching and mentoring. I believe in building software the right way, which means thinking about scalability, security, and maintainability from day one.
+### [Rylee](https://github.com/funkybooboo/rylee) - Chess Engine
+Advanced chess engine mimicking human playing behavior using AI techniques and machine learning, capturing nuances of human decision-making beyond simple optimization.
+
+## Core Competencies
+
+**Technical:** Distributed systems & data engineering, AI/ML implementation, cloud-native architecture, DevOps automation, full-stack development
+
+**Languages:** Python, JavaScript/TypeScript, Java/Kotlin, C/C++, Rust, C#, Go, Ruby, Bash
+
+**Cloud & DevOps:** AWS, GCP, Azure, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions
+
+**Data Engineering:** Databricks, Snowflake, BigQuery, Kafka, Elasticsearch, PostgreSQL, MongoDB, Redis
 
 ## Let's Connect
 

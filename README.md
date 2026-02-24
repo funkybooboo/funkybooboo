@@ -28,6 +28,12 @@ Strong advocate for clean architecture, test-driven development, and [twelve-fac
 
 ## Featured Projects
 
+### [Artisan Commerce](https://github.com/funkybooboo/artisan-commerce) - E-Commerce Platform with Queue-Based Capacity Management
+Architecting serverless edge platform for artisan e-commerce using SvelteKit frontend and Cloudflare Workers backend, optimized for <$5/month operational costs. Implemented queue-based capacity management system enabling transparent delivery estimates for made-to-order goods. Built with Terraform IaC, Cloudflare D1 (distributed SQLite), R2 object storage, achieving 99.9% uptime SLA with zero vendor lock-in.
+
+### [OpenHaven](https://github.com/funkybooboo/openhaven) - Multi-Cloud Personal Infrastructure Orchestrator
+Architecting convention-driven cloud orchestration platform automating deployment of self-hosted services (email, files, passwords, git, AI) across user-owned multi-cloud infrastructure. Designed multi-cloud cost optimization strategy achieving 75-85% cost savings vs SaaS equivalents ($5-10/month vs $40-65/month). Comprehensive service stack includes Keycloak SSO, Nextcloud, Mailcow, Gitea, Vaultwarden, WireGuard VPN, and Ollama AI.
+
 ### [Alle](https://github.com/funkybooboo/alle) - Custom Task Management SaaS
 Architected full-stack application using React 19/TypeScript frontend and Rust/Tokio backend with GraphQL API, serving 100+ daily active users. Achieved 85% code coverage through comprehensive testing strategy with 60+ unit, integration, and E2E tests. Deployed with Docker Compose, SeaORM/SQLite, and Tower HTTP framework with 99.9% uptime.
 
@@ -55,7 +61,7 @@ Advanced chess engine mimicking human playing behavior using AI techniques and m
 
 **Languages:** Python, JavaScript/TypeScript, Java/Kotlin, C/C++, Rust, C#, Go, Ruby, Bash
 
-**Cloud & DevOps:** AWS, GCP, Azure, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions
+**Cloud & DevOps:** AWS, GCP, Azure, Cloudflare (Pages, Workers, D1, R2), Hetzner Cloud, Docker, Kubernetes, Terraform, Traefik, GitHub Actions
 
 **Data Engineering:** Databricks, Snowflake, BigQuery, Kafka, Elasticsearch, PostgreSQL, MongoDB, Redis
 

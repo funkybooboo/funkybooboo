@@ -1,6 +1,6 @@
 # Nate Stott
 
-Software Engineer | MS Computer Science Candidate at Utah State University
+Associate Software Engineer at Domo | MS Computer Science Candidate at Utah State University
 
 [Personal Website](https://natestott.net) | [Resume](https://github.com/funkybooboo/resume) | [LinkedIn](https://www.linkedin.com/in/nate-stott1/)
 
@@ -8,7 +8,7 @@ Software Engineer | MS Computer Science Candidate at Utah State University
 
 ## About
 
-Software engineer with production experience at Domo building scalable data pipelines and cloud integrations, processing 10M+ records daily. MS Computer Science candidate at Utah State University specializing in AI/ML with published research in IEEE and ACM. Nominated for TA of the Year 2025 for exceptional teaching in software engineering and multi-agent systems.
+Associate Software Engineer at Domo building scalable data pipelines and cloud integrations, processing 10M+ records daily. MS Computer Science candidate at Utah State University specializing in AI/ML with published research in IEEE and ACM. Nominated for TA of the Year 2025 for exceptional teaching in software engineering and multi-agent systems.
 
 Previously Junior Software Engineer at Provider Resources Inc, where I championed TDD adoption (increasing code coverage from 40% to 85%), led Docker containerization initiatives (reducing deployment time from 2 hours to 15 minutes), and architected workflow automation solutions saving $50K annually.
 

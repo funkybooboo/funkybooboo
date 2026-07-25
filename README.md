@@ -49,8 +49,8 @@ Blazingly fast terminal UI for CSV files with vim-style navigation. Handles huge
 ### [InsightHub](https://github.com/funkybooboo/insighthub) - RAG System Platform
 Flexible platform for building, configuring, and comparing Retrieval-Augmented Generation (RAG) systems across any dataset. Modular pipeline architecture supporting multiple embedding models, LLMs, and vector databases.
 
-### [Homelab](https://github.com/funkybooboo/homelab) - Infrastructure Automation Platform
-Built infrastructure-as-code homelab with automated deployment, containerized services using Docker/Kubernetes, and n8n workflow automation. Configured network security with VLANs, firewall rules, and Tailscale VPN.
+### [Homelab](https://github.com/funkybooboo/homelab) - Proxmox Virtualization Cluster
+Built and operate a 5-node Proxmox VE cluster --- four x86_64 compute nodes plus a Raspberry Pi running PxVirt (the ARM port of Proxmox) as a quorum-witness --- running ~19 LXC containers under high-availability management via `ha-manager`. TrueNAS Scale serves as the backend, exporting NFS for shared container storage and nightly `vzdump` backups. Hosts a self-hosted service stack (Jellyfin, Forgejo, Vaultwarden, n8n, FreshRSS, Linkwarden, Grafana/Prometheus, Excalidraw, Drawio, SearXNG, Jupyter, and more) with Tailscale providing mesh VPN connectivity and automatic TLS-terminated HTTPS ingress per service via Tailscale Serve. Handles cluster operations including storage reconfiguration, NFS kernel-thread recovery, HA service failover, and version-skew management across mixed x86/ARM nodes.
 
 ### [Rylee](https://github.com/funkybooboo/rylee) - Chess Engine
 Advanced chess engine mimicking human playing behavior using AI techniques and machine learning, capturing nuances of human decision-making beyond simple optimization.

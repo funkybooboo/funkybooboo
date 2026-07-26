@@ -10,7 +10,7 @@ Associate Software Engineer at Domo | MS Computer Science Candidate at Utah Stat
 
 Associate Software Engineer at Domo building scalable data pipelines and cloud integrations, processing 10M+ records daily. MS Computer Science candidate at Utah State University specializing in AI/ML with published research in IEEE and ACM. Nominated for TA of the Year 2025 for exceptional teaching in software engineering and multi-agent systems.
 
-Previously Junior Software Engineer at Provider Resources Inc, where I championed TDD adoption (increasing code coverage from 40% to 85%), led Docker containerization initiatives (reducing deployment time from 2 hours to 15 minutes), and architected workflow automation solutions saving $50K annually.
+Previously Junior Software Engineer at Provider Resources Inc, where I championed TDD adoption (increasing code coverage from 40% to 85%), led Docker containerization initiatives (reducing deployment time from 2 hours to 15 minutes), and architected workflow automation solutions that removed recurring manual work across departments.
 
 ## Education & Research
 
@@ -24,18 +24,18 @@ Previously Junior Software Engineer at Provider Resources Inc, where I champione
 
 ## Development Philosophy
 
-Strong advocate for clean architecture, test-driven development, and [twelve-factor methodology](https://12factor.net/). I apply these principles rigorously to ensure scalability, maintainability, and cloud-native deployment. Linux power user (Arch/NixOS) with deep systems programming knowledge. Daily LeetCode practitioner and CodeCrafters contributor maintaining sharp algorithmic skills.
+Strong advocate for clean architecture, test-driven development, and [twelve-factor methodology](https://12factor.net/). I apply these principles rigorously to ensure scalability, maintainability, and cloud-native deployment. Linux power user with hands-on systems programming and full-stack engineering through personal projects.
 
 ## Featured Projects
 
-### [Artisan Commerce](https://github.com/funkybooboo/artisan-commerce) - E-Commerce Platform with Queue-Based Capacity Management
-Architecting serverless edge platform for artisan e-commerce using SvelteKit frontend and Cloudflare Workers backend, optimized for <$5/month operational costs. Implemented queue-based capacity management system enabling transparent delivery estimates for made-to-order goods. Built with Terraform IaC, Cloudflare D1 (distributed SQLite), R2 object storage, achieving 99.9% uptime SLA with zero vendor lock-in.
+### [Artisan Commerce](https://github.com/funkybooboo/artisan-commerce) - Serverless E-Commerce Platform
+Architecting a serverless edge platform for artisan e-commerce with a SvelteKit frontend and a Hono backend on Cloudflare Workers, featuring queue-based capacity management for made-to-order goods and under $5/month operating cost. Built the data and storage layer on Cloudflare D1 and R2 with an adapter-pattern architecture ensuring zero vendor lock-in, and a TDD workflow (Vitest + Playwright) targeting 85%+ code coverage.
 
 ### [OpenHaven](https://github.com/funkybooboo/openhaven) - Multi-Cloud Personal Infrastructure Orchestrator
 Architecting convention-driven cloud orchestration platform automating deployment of self-hosted services (email, files, passwords, git, AI) across user-owned multi-cloud infrastructure. Designed multi-cloud cost optimization strategy achieving 75-85% cost savings vs SaaS equivalents ($5-10/month vs $40-65/month). Comprehensive service stack includes Keycloak SSO, Nextcloud, Mailcow, Gitea, Vaultwarden, WireGuard VPN, and Ollama AI.
 
-### [Alle](https://github.com/funkybooboo/alle) - Custom Task Management SaaS
-Architected full-stack application using React 19/TypeScript frontend and Rust/Tokio backend with GraphQL API, serving 100+ daily active users. Achieved 85% code coverage through comprehensive testing strategy with 60+ unit, integration, and E2E tests. Deployed with Docker Compose, SeaORM/SQLite, and Tower HTTP framework with 99.9% uptime.
+### [Alle](https://github.com/funkybooboo/alle) - Full-Stack Task Management
+Architected a full-stack task manager as a TypeScript monorepo with a SvelteKit (Svelte 5) frontend and a Bun backend, using an adapter-pattern architecture with a repository pattern for data access. Exposed an OpenAPI API validated with Zod, with unit tests via Bun's test runner and E2E tests via Playwright across the client, server, and shared packages.
 
 ### [StdLib](https://github.com/funkybooboo/stdlib) - Standard Library from First Principles
 Implemented standard library with core data structures, algorithms, and math utilities entirely from scratch in Rust without any third-party dependencies. Built comprehensive collection including vectors, linked lists, hash maps, trees, sorting algorithms, and memory management utilities.
